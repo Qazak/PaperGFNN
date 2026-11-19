@@ -4,8 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNvtapYvX6sT+M257V5fG7f",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyMjETix7s7DHFulTbnpJ2RE"
     },
     "kernelspec": {
       "name": "python3",
@@ -16,16 +15,6 @@
     }
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/Qazak/PaperGFNN/blob/main/CD-GFNN\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "source": [
@@ -574,6 +563,24 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "TtzXSedovA_x"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "MWGnVICPu-JL"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
